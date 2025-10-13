@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diferença entre Git e GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 40px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Diferença entre Git e GitHub</h1>
+    <p><strong>Git</strong> é um sistema de controle de versão que permite acompanhar as mudanças feitas em arquivos ao longo do tempo. 
+    Ele funciona localmente no seu computador e é usado para gerenciar versões do seu código, facilitando o trabalho em equipe e o controle de histórico.</p>
+
+    <p><strong>GitHub</strong> é uma plataforma online que hospeda repositórios Git. 
+    Ele permite que você compartilhe seus projetos, colabore com outras pessoas e acesse seus códigos de qualquer lugar. 
+    Em resumo: o Git é a ferramenta, e o GitHub é o serviço que usa essa ferramenta.</p>
+</body>
+</html>
